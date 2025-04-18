@@ -2,6 +2,8 @@
 
 This project demonstrates a simple Continuous Integration and Continuous Deployment (CI/CD) workflow using **GitHub Actions** to automatically deploy a static website to **GitHub Pages**.
 
+https://peymansohi.github.io/gh-deployment-workflow/
+
 ## 🚀 What It Does
 
 - Hosts a simple `index.html` page that says:  
